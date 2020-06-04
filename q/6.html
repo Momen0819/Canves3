@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>بطاقات الإهداء ،، هديتك لأحبابك</title>
+        <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="..\css\bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="..\css\font-awesome.css">
+        <link rel="stylesheet" type="text/css" href="..\css\rtl.css">
+        <link rel="stylesheet" type="text/css" href="..\css\style.css">
+    </head>
+    <body dir="rtl">
+        <section class="logo">
+            <div class="container">
+                    <a href="..\index.htm"><img src="..\images\logo.png" alt=""></a>
+                                        <p>بطاقات الإهداء</p>
+                                </div>
+        </section>
+
+            <!-- START HOMEPAGE SLIDER -->
+    <section class="posts quran">
+        <div class="container">
+            <h2>بطاقة إهداء العيد ( 1 )</h2>
+            <div class="row">
+                <div class="col-md-5 col-sm-12 col-xs-12">
+                    <div class="slider-text">
+                        <p>اكتب اسمك و اسم المرسل إليه الإهداء</p>
+                        <div class="slide-button">
+                            <input class="in-text" type="text" id="FromInPut" placeholder="أكتب اسمك هنا" class="form-control" style="margin-bottom: 40px;">
+                            <input class="in-text" type="text" placeholder="أكتب اسم المرسل إليه الإهداء " class="form-control" style="margin-bottom: 40px;" id="ToInput">
+                            <input class="bt-img-sa" type="button" value="أنشاء الصورة" onclick="GenerateImage()" style="margin-top: 10px;" class="btn">
+                        </div>
+                    </div>
+                </div><!-- END COL -->
+
+                <div class="col-md-7 col-sm-12 col-xs-12">
+                    <div class="image-part">
+                        <img id="canvasImg" src="..\images\1590005429.jpg" alt="Img">
+                        <span id="to-x" class="opacity-class">790</span>
+                        <span id="to-y" class="opacity-class">430</span>
+                        <span id="from-x" class="opacity-class">790</span>
+                        <span id="from-y" class="opacity-class">920</span>
+                    </div>
+                </div><!-- END COL -->
+            </div><!-- END ROW -->
+        </div><!-- END CONTAINER -->
+    </section>
+    <footer class="hqooq">
+        جميع الحقوق محفوظة
+    </footer>
+
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <canvas id="idCanvas" style="max-width: 100%;" width="1000px" height="1000px"> </canvas>
+                </div>
+                <div class="modal-footer">
+                    <button class="fo-bot fo-bot1" type="button" class="btn btn-danger" data-dismiss="modal">أغلاق</button>
+                    <button class="fo-bot fo-bot2" type="button" onclick="Download()" class="btn btn-success">تحميل</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+
+        function GenerateImage() {
+            var From = $('#FromInPut').val();
+            var To = $('#ToInput').val();
+            if (From == "")
+                return alert("أكتب أسمك أولا");
+            if (To == "")
+                return alert("أكتب أسم المرسل إليه أولا");
+
+            var canvas = document.getElementById('idCanvas');
+            var context = canvas.getContext('2d');
+            var imageSrc = document.getElementById('canvasImg');
+            var toX = document.getElementById('to-x');
+            var toY = document.getElementById('to-y');
+            var fromX = document.getElementById('from-x');
+            var fromY = document.getElementById('from-y');
+            var imageObj = new Image();
+            imageObj.src = imageSrc.src;
+
+            context.drawImage(imageObj, 0, 0, canvas.width, canvas.height);
+            context.font = "28px Cairo";
+            context.fillText(From, fromX.textContent, fromY.textContent);
+            context.fillText(To, toX.textContent, toY.textContent);
+            //document.getElementById('canvasImg').setAttribute('crossOrigin', 'anonymous');
+            $('#exampleModal').modal("show");
+        }
+
+        function Download() {
+            var canvas = document.getElementById('idCanvas');
+            var link = document.createElement('a');
+            var dataURL = canvas.toDataURL();
+            link.download = "my-image.jpg";
+            link.href = dataURL;
+            //alert(link.href);
+            link.click();
+        }
+
+
+        $("#FromInPut").on("change", function () {
+            var Val = $(this).val();
+            $('#FromInPut').val(Val);
+        });
+
+        $("#ToInput").on("change", function () {
+            var Val = $(this).val();
+            $('#ToInput').val(Val);
+        });
+
+    </script>
+    
+        <script src="..\js\jquery.min.js"></script>
+        <script src="..\js\popper.min.js"></script>
+        <script src="..\js\bootstrap.min.js"></script>
+    </body>
+</html>

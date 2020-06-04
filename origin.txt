@@ -1,0 +1,140 @@
+Uri: https://ehdaa.tqf.org.sa/
+File Name: D:\Private\new\ehdaa.tqf.org.sa\index.htm
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/css/bootstrap.min.css
+File Name: D:\Private\new\ehdaa.tqf.org.sa\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ehdaa.tqf.org.sa/css/font-awesome.css
+File Name: D:\Private\new\ehdaa.tqf.org.sa\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://ehdaa.tqf.org.sa/css/rtl.css
+File Name: D:\Private\new\ehdaa.tqf.org.sa\css\rtl.css
+Content Type: text/css
+
+Uri: https://ehdaa.tqf.org.sa/css/style.css
+File Name: D:\Private\new\ehdaa.tqf.org.sa\css\style.css
+Content Type: text/css
+
+Uri: https://ehdaa.tqf.org.sa/m
+File Name: D:\Private\new\ehdaa.tqf.org.sa\m.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/w
+File Name: D:\Private\new\ehdaa.tqf.org.sa\w.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/images/logo.png
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\logo.png
+Content Type: image/png
+
+Uri: https://ehdaa.tqf.org.sa/js/jquery.min.js
+File Name: D:\Private\new\ehdaa.tqf.org.sa\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ehdaa.tqf.org.sa/js/popper.min.js
+File Name: D:\Private\new\ehdaa.tqf.org.sa\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://ehdaa.tqf.org.sa/js/bootstrap.min.js
+File Name: D:\Private\new\ehdaa.tqf.org.sa\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ehdaa.tqf.org.sa/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\Private\new\ehdaa.tqf.org.sa\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ehdaa.tqf.org.sa/fonts/fontawesome-webfont.eot?
+File Name: D:\Private\new\ehdaa.tqf.org.sa\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ehdaa.tqf.org.sa/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\Private\new\ehdaa.tqf.org.sa\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ehdaa.tqf.org.sa/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\Private\new\ehdaa.tqf.org.sa\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ehdaa.tqf.org.sa/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\Private\new\ehdaa.tqf.org.sa\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://ehdaa.tqf.org.sa/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\Private\new\ehdaa.tqf.org.sa\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ehdaa.tqf.org.sa/q/1
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\1.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/6
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\6.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/7
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\7.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/8
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\8.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/9
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\9.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/images/1589811133.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1589811133.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1590005429.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1590005429.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1590016282.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1590016282.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1590016357.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1590016357.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1590016412.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1590016412.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/q/2
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\2.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/3
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\3.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/4
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\4.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/q/5
+File Name: D:\Private\new\ehdaa.tqf.org.sa\q\5.html
+Content Type: text/html
+
+Uri: https://ehdaa.tqf.org.sa/images/1589812088.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1589812088.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1589812884.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1589812884.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1589813093.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1589813093.jpg
+Content Type: image/jpeg
+
+Uri: https://ehdaa.tqf.org.sa/images/1589813175.jpg
+File Name: D:\Private\new\ehdaa.tqf.org.sa\images\1589813175.jpg
+Content Type: image/jpeg
+
